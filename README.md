@@ -1,4 +1,7 @@
 # React + Vite
+## Live Demo
+
+Check out the live version of this project [here](https://tic-tac-reactjs-example.netlify.app/).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
